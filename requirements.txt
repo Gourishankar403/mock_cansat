@@ -1,0 +1,8 @@
+nicegui
+pyserial
+pandas
+matplotlib
+python-dotenv
+opencv-python
+tensorflow
+numpy
